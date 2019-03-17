@@ -1,3 +1,4 @@
 print(«Hello Bear»)
 print("Hello every bear")
 print("Hello")
+print("Hello my dear bear")
